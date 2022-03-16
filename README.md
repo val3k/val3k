@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Valentin
 - 👀 I’m interested in ML and CS
-- 🌱 I’m currently learning CS
 - 📫 How to reach me val3k@ya.ru
 
 <!---
